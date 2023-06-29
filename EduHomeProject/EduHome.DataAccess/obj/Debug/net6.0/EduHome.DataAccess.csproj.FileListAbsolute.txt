@@ -1,0 +1,12 @@
+C:\Users\99451\Desktop\EduHomeProject\EduHomeProject\EduHome.DataAccess\bin\Debug\net6.0\EduHome.DataAccess.deps.json
+C:\Users\99451\Desktop\EduHomeProject\EduHomeProject\EduHome.DataAccess\bin\Debug\net6.0\EduHome.DataAccess.dll
+C:\Users\99451\Desktop\EduHomeProject\EduHomeProject\EduHome.DataAccess\bin\Debug\net6.0\EduHome.DataAccess.pdb
+C:\Users\99451\Desktop\EduHomeProject\EduHomeProject\EduHome.DataAccess\obj\Debug\net6.0\EduHome.DataAccess.csproj.AssemblyReference.cache
+C:\Users\99451\Desktop\EduHomeProject\EduHomeProject\EduHome.DataAccess\obj\Debug\net6.0\EduHome.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99451\Desktop\EduHomeProject\EduHomeProject\EduHome.DataAccess\obj\Debug\net6.0\EduHome.DataAccess.AssemblyInfoInputs.cache
+C:\Users\99451\Desktop\EduHomeProject\EduHomeProject\EduHome.DataAccess\obj\Debug\net6.0\EduHome.DataAccess.AssemblyInfo.cs
+C:\Users\99451\Desktop\EduHomeProject\EduHomeProject\EduHome.DataAccess\obj\Debug\net6.0\EduHome.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\99451\Desktop\EduHomeProject\EduHomeProject\EduHome.DataAccess\obj\Debug\net6.0\EduHome.DataAccess.dll
+C:\Users\99451\Desktop\EduHomeProject\EduHomeProject\EduHome.DataAccess\obj\Debug\net6.0\refint\EduHome.DataAccess.dll
+C:\Users\99451\Desktop\EduHomeProject\EduHomeProject\EduHome.DataAccess\obj\Debug\net6.0\EduHome.DataAccess.pdb
+C:\Users\99451\Desktop\EduHomeProject\EduHomeProject\EduHome.DataAccess\obj\Debug\net6.0\ref\EduHome.DataAccess.dll
