@@ -249,3 +249,5 @@ C:\Users\99451\Desktop\EduHomeProject\EduHomeProject\EduHome.UI\bin\Debug\net6.0
 C:\Users\99451\Desktop\EduHomeProject\EduHomeProject\EduHome.UI\bin\Debug\net6.0\EduHome.Core.dll
 C:\Users\99451\Desktop\EduHomeProject\EduHomeProject\EduHome.UI\bin\Debug\net6.0\EduHome.Core.pdb
 C:\Users\99451\Desktop\EduHomeProject\EduHomeProject\EduHome.UI\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\99451\Desktop\EduHomeProject\EduHomeProject\EduHome.UI\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\99451\Desktop\EduHomeProject\EduHomeProject\EduHome.UI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

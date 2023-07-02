@@ -1,0 +1,49 @@
+﻿@using EduHome.UI.Areas.EduHomeAdmin.ViewModels.SliderViewModels;
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+@model SliderPostVM
+@{
+    ViewData["Title"] = "Create";
+}
+
+<div class="card">
+    <div class="card-body">
+        <h4 class="card-title">Create slider</h4>
+        <form method="post" class="app-search d-none d-lg-block">
+            <div class="mb-3 row">
+                <label asp-for="MainTitle" for="example-text-input" class="col-md-2 col-form-label">MainTitle</label>
+                <div class="col-md-10">
+                    <input asp-for="MainTitle" class="form-control" type="text">
+                    <span class="text-danger" asp-validation-for="MainTitle"></span>
+
+                </div>
+            </div><div class="mb-3 row">
+                <label asp-for="Title" for="example-text-input" class="col-md-2 col-form-label">SmallTitle</label>
+                <div class="col-md-10">
+                    <input asp-for="Title" class="form-control" type="text">
+                    <span class="text-danger" asp-validation-for="Title"></span>
+
+                </div>
+            </div>
+            <div class="mb-3 row">
+                <label asp-for="Description" for="example-search-input" class="col-md-2 col-form-label">Description</label>
+                <div class="col-md-10">
+                    <input asp-for="Description" class="form-control" type="text">
+                    <span class="text-danger" asp-validation-for="Description"></span>
+                </div>
+            </div>
+            <div class="mb-3 row">
+                <label asp-for="BackgroundUrl" for="example-email-input" class="col-md-2 col-form-label">Image Path</label>
+                <div class="col-md-10">
+                    <input asp-for="BackgroundUrl" class="form-control" type="text">
+                    <span class="text-danger" asp-validation-for="BackgroundUrl"></span>
+                </div>
+            </div>
+
+            <div>
+                <button type="submit" class="btn btn-primary waves-effect waves-light">Create</button>
+            </div>
+        </form>
+    </div>
+</div>
+

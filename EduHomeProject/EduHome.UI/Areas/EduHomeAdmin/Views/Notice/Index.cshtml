@@ -1,0 +1,44 @@
+﻿@model IEnumerable<Notice>
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@using EduHome.Core.Entities;
+@using EduHome.UI.ViewModels
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div class="row">
+    <div class="col-xl-12">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title">Slider table</h4>
+                <div class="table-responsive">
+                    <a asp-area="EduHomeAdmin" asp-controller="Notice" asp-action="Create" class="btn btn-success waves-effect waves-light">Create</a>
+                    <table class="table mb-0">
+
+                        <thead>
+                            <tr>
+                                <th>Date</th>
+                                <th>Description</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var notice in Model)
+                            {
+                                <tr>
+                                    <td>@notice.Date</td>
+                                    <td>@notice.Description</td>
+                                    <td class="myButtons" style="display:flex;gap:7px">
+                                        <button type="button" class="btn btn-info waves-effect waves-light" asp-route-id="@notice.Id">Update</button>
+                                        <a type="submit" class="btn btn-danger waves-effect waves-light" asp-route-id="@notice.Id" asp-action="Delete">Delete</a>
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+

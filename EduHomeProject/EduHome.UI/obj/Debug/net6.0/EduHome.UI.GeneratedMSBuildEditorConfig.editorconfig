@@ -16,6 +16,46 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\99451\Desktop\EduHomeProject\EduHomeProject\EduHome.UI
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/99451/Desktop/EduHomeProject/EduHomeProject/EduHome.UI/Areas/EduHomeAdmin/Views/Dashboard/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRWR1SG9tZUFkbWluXFZpZXdzXERhc2hib2FyZFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/99451/Desktop/EduHomeProject/EduHomeProject/EduHome.UI/Areas/EduHomeAdmin/Views/Notice/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRWR1SG9tZUFkbWluXFZpZXdzXE5vdGljZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/99451/Desktop/EduHomeProject/EduHomeProject/EduHome.UI/Areas/EduHomeAdmin/Views/Notice/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRWR1SG9tZUFkbWluXFZpZXdzXE5vdGljZVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/99451/Desktop/EduHomeProject/EduHomeProject/EduHome.UI/Areas/EduHomeAdmin/Views/Notice/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRWR1SG9tZUFkbWluXFZpZXdzXE5vdGljZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/99451/Desktop/EduHomeProject/EduHomeProject/EduHome.UI/Areas/EduHomeAdmin/Views/Shared/_AdminLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRWR1SG9tZUFkbWluXFZpZXdzXFNoYXJlZFxfQWRtaW5MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/99451/Desktop/EduHomeProject/EduHomeProject/EduHome.UI/Areas/EduHomeAdmin/Views/Slider/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRWR1SG9tZUFkbWluXFZpZXdzXFNsaWRlclxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/99451/Desktop/EduHomeProject/EduHomeProject/EduHome.UI/Areas/EduHomeAdmin/Views/Slider/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRWR1SG9tZUFkbWluXFZpZXdzXFNsaWRlclxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/99451/Desktop/EduHomeProject/EduHomeProject/EduHome.UI/Areas/EduHomeAdmin/Views/Slider/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRWR1SG9tZUFkbWluXFZpZXdzXFNsaWRlclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/99451/Desktop/EduHomeProject/EduHomeProject/EduHome.UI/Areas/EduHomeAdmin/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRWR1SG9tZUFkbWluXFZpZXdzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/99451/Desktop/EduHomeProject/EduHomeProject/EduHome.UI/Areas/EduHomeAdmin/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRWR1SG9tZUFkbWluXFZpZXdzXF9WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/99451/Desktop/EduHomeProject/EduHomeProject/EduHome.UI/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
