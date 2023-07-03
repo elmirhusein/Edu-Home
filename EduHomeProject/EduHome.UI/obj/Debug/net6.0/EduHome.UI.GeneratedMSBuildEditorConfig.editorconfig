@@ -16,6 +16,22 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\99451\Desktop\EduHomeProject\EduHomeProject\EduHome.UI
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/99451/Desktop/EduHomeProject/EduHomeProject/EduHome.UI/Areas/EduHomeAdmin/Views/Blog/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRWR1SG9tZUFkbWluXFZpZXdzXEJsb2dcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/99451/Desktop/EduHomeProject/EduHomeProject/EduHome.UI/Areas/EduHomeAdmin/Views/Blog/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRWR1SG9tZUFkbWluXFZpZXdzXEJsb2dcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/99451/Desktop/EduHomeProject/EduHomeProject/EduHome.UI/Areas/EduHomeAdmin/Views/Blog/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRWR1SG9tZUFkbWluXFZpZXdzXEJsb2dcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/99451/Desktop/EduHomeProject/EduHomeProject/EduHome.UI/Areas/EduHomeAdmin/Views/Blog/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRWR1SG9tZUFkbWluXFZpZXdzXEJsb2dcVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/99451/Desktop/EduHomeProject/EduHomeProject/EduHome.UI/Areas/EduHomeAdmin/Views/Course/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRWR1SG9tZUFkbWluXFZpZXdzXENvdXJzZVxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -58,6 +74,22 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/99451/Desktop/EduHomeProject/EduHomeProject/EduHome.UI/Areas/EduHomeAdmin/Views/Slider/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRWR1SG9tZUFkbWluXFZpZXdzXFNsaWRlclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/99451/Desktop/EduHomeProject/EduHomeProject/EduHome.UI/Areas/EduHomeAdmin/Views/Testimonial/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRWR1SG9tZUFkbWluXFZpZXdzXFRlc3RpbW9uaWFsXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/99451/Desktop/EduHomeProject/EduHomeProject/EduHome.UI/Areas/EduHomeAdmin/Views/Testimonial/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRWR1SG9tZUFkbWluXFZpZXdzXFRlc3RpbW9uaWFsXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/99451/Desktop/EduHomeProject/EduHomeProject/EduHome.UI/Areas/EduHomeAdmin/Views/Testimonial/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRWR1SG9tZUFkbWluXFZpZXdzXFRlc3RpbW9uaWFsXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/99451/Desktop/EduHomeProject/EduHomeProject/EduHome.UI/Areas/EduHomeAdmin/Views/Testimonial/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRWR1SG9tZUFkbWluXFZpZXdzXFRlc3RpbW9uaWFsXFVwZGF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/99451/Desktop/EduHomeProject/EduHomeProject/EduHome.UI/Areas/EduHomeAdmin/Views/_ViewImports.cshtml]

@@ -11,4 +11,6 @@ public class AppDbContext:DbContext
     public DbSet<Notice> Notices { get; set; } = null!;
     public DbSet<Course> Courses { get; set; } = null!;
     public DbSet<CourseCatagory> CourseCatagories { get; set; } = null!;
+    public DbSet<Blog> Blogs { get; set; } = null!;
+    public DbSet<Testimonial> Testimonials { get; set; } = null!;
 }

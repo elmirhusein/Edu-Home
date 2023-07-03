@@ -1,0 +1,24 @@
+﻿@using EduHome.Core.Entities;
+@model Testimonial
+@{
+    ViewData["Title"] = "Delete";
+    Layout = "~/Areas/EduHomeAdmin/Views/Shared/_AdminLayout.cshtml";
+}
+<div class="card">
+    <div class="card-body">
+        <img src="@Model.ImagePath" style="width:200px" />
+        <h4 class="card-title">@Model.</h4>
+        <h4 class="card-title-smallTitle">@Model.Name</h4>
+        <h4 class="card-title-smallTitle">@Model.Surname</h4>
+        <h4 class="card-title-smallTitle">@Model.Position</h4>
+        <h4 class="card-title-smallTitle">@Model.Description</h4>
+        <p class="card-title-desc">@Model.Description</p>
+        <div class="d-flex flex-wrap gap-2">
+            <form method="post" asp-route-id="@Model.Id">
+                <button type="submit" class="btn btn-danger waves-effect waves-light">Delete</button>
+                <a asp-area="EduHomeAdmin" asp-controller="Testimonial" asp-action="Index" class="btn btn-light waves-effect">Back to List</a>
+            </form>
+        </div>
+    </div>
+</div>
+

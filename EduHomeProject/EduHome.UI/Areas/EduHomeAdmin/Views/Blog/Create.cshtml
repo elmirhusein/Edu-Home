@@ -1,0 +1,56 @@
+﻿@using EduHome.UI.Areas.EduHomeAdmin.ViewModels.BlogViewModels;
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+@model BlogPostVM
+@{
+    ViewData["Title"] = "Create";
+}
+
+<div class="card">
+    <div class="card-body">
+        <h4 class="card-title">Create Blog</h4>
+        <form method="post" class="app-search d-none d-lg-block">
+            <div class="mb-3 row">
+                <label asp-for="Name" for="example-text-input" class="col-md-2 col-form-label">Name</label>
+                <div class="col-md-10">
+                    <input asp-for="Name" class="form-control" type="text">
+                    <span class="text-danger" asp-validation-for="Name"></span>
+
+                </div>
+            </div><div class="mb-3 row">
+                <label asp-for="Date" for="example-text-input" class="col-md-2 col-form-label">Date</label>
+                <div class="col-md-10">
+                    <input asp-for="Date" class="form-control" type="text">
+                    <span class="text-danger" asp-validation-for="Date"></span>
+
+                </div>
+            </div>
+            <div class="mb-3 row">
+                <label asp-for="Box" for="example-search-input" class="col-md-2 col-form-label">MessageBox</label>
+                <div class="col-md-10">
+                    <input asp-for="Box" class="form-control" type="number">
+                    <span class="text-danger" asp-validation-for="Box"></span>
+                </div>
+            </div>
+            <div class="mb-3 row">
+                <label asp-for="Description" for="example-search-input" class="col-md-2 col-form-label">Description</label>
+                <div class="col-md-10">
+                    <input asp-for="Description" class="form-control" type="text">
+                    <span class="text-danger" asp-validation-for="Description"></span>
+                </div>
+            </div>
+            <div class="mb-3 row">
+                <label asp-for="ImagePath" for="example-email-input" class="col-md-2 col-form-label">Image Path</label>
+                <div class="col-md-10">
+                    <input asp-for="ImagePath" class="form-control" type="text">
+                    <span class="text-danger" asp-validation-for="ImagePath"></span>
+                </div>
+            </div>
+
+            <div>
+                <button type="submit" class="btn btn-primary waves-effect waves-light">Create</button>
+            </div>
+        </form>
+    </div>
+</div>
+

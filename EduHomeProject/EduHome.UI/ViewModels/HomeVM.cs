@@ -8,4 +8,6 @@ public class HomeVM
     public IEnumerable<Notice> Notices { get; set; } = null!;
     public IEnumerable<Course> Courses { get; set; } = null!;
     public IEnumerable<CourseCatagory> CourseCatagories { get; set; } = null!;
+    public IEnumerable<Blog> Blogs { get; set; } = null!;
+    public IEnumerable<Testimonial> Testimonials { get; set; } = null!;
 }
