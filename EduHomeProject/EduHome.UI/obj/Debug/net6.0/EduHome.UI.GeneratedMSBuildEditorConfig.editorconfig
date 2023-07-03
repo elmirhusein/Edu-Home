@@ -16,6 +16,18 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\99451\Desktop\EduHomeProject\EduHomeProject\EduHome.UI
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/99451/Desktop/EduHomeProject/EduHomeProject/EduHome.UI/Areas/EduHomeAdmin/Views/Course/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRWR1SG9tZUFkbWluXFZpZXdzXENvdXJzZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/99451/Desktop/EduHomeProject/EduHomeProject/EduHome.UI/Areas/EduHomeAdmin/Views/Course/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRWR1SG9tZUFkbWluXFZpZXdzXENvdXJzZVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/99451/Desktop/EduHomeProject/EduHomeProject/EduHome.UI/Areas/EduHomeAdmin/Views/Course/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRWR1SG9tZUFkbWluXFZpZXdzXENvdXJzZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/99451/Desktop/EduHomeProject/EduHomeProject/EduHome.UI/Areas/EduHomeAdmin/Views/Dashboard/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRWR1SG9tZUFkbWluXFZpZXdzXERhc2hib2FyZFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
